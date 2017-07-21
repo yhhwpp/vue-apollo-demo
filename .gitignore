@@ -1,0 +1,6 @@
+.DS_Store
+frontpage-server/node_modules/
+frontpage-vue-app/node_modules/
+dist/
+npm-debug.log
+.idea
